@@ -1,3 +1,4 @@
 # nn_video
 
-https://github.com/eliottkalfon/nn_video/blob/main/nn_gif.gif
+[![NN GIF](https://github.com/eliottkalfon/nn_video/blob/main/nn_gif.gif)]
+
