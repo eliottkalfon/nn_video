@@ -6,3 +6,5 @@ This video shows the training of a neural network on a noisy and non-linearly se
 
 Note: The code will be shared shortly
 
+Inspiration: https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+
