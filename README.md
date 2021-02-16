@@ -4,5 +4,5 @@ This video shows the training of a neural network on a noisy and non-linearly se
 
 [![NN GIF](https://github.com/eliottkalfon/nn_video/blob/main/nn_gif.gif)](https://github.com/eliottkalfon/nn_video/blob/main/movie.mp4)
 
-Note: The code is currently being tidied up, and will be shared shortly
+Note: The code will be shared shortly
 
