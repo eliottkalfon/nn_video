@@ -2,7 +2,7 @@
 
 This video shows the training of a neural network on a noisy and non-linearly separable dataset. The left chart shows the neurons and connections between them. Red dotted lines indicate large weight changes (learning). The right chart visually displays the evolution of the decision boundaries over the training epochs. Scroll down for a longer explanation and a description of the code implementation.
 
-Click on the GIF to go to the mp4 video.
+Click on the GIF to navigate to the mp4 video.
 
 [![NN GIF](https://github.com/eliottkalfon/nn_video/blob/main/nn_gif.gif)](https://github.com/eliottkalfon/nn_video/blob/main/movie.mp4)
 
